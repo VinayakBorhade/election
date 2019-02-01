@@ -1,3 +1,3 @@
 # election
 
-Simple Basic Election Dapp on Ethereum network
+Basic Election Dapp based on ethereum Blockchain
